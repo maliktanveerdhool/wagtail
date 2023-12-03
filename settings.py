@@ -18,6 +18,7 @@ INSTALLED_ADDONS = [
     "aldryn-addons",
     "aldryn-django",
     "aldryn-sso",
+    "aldryn-wagtail",
     # </INSTALLED_ADDONS>
 ]
 
